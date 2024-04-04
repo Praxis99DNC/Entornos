@@ -41,5 +41,6 @@ public class Pruebas {
 		} else
 			posicion = posicion + tirada; // Si la tirada + posicion no se pasa de las casillas, actualiza la posicion
 		System.out.println(posicion);
+		System.out.println("Pasando desde github a eclipse");
 	} // Cierre main
 } // Cierre clase
