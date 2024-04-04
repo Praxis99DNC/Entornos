@@ -9,7 +9,6 @@ public class Pruebas {
 		String introd;
 		int casillas, posicion, tirada;
 		Scanner entrada = new Scanner(System.in);
-		int madremia;
 		do {
 			introd = entrada.nextLine();
 		} while (!introd.equals("0 0 0"));
