@@ -42,5 +42,6 @@ public class Pruebas {
 			posicion = posicion + tirada; // Si la tirada + posicion no se pasa de las casillas, actualiza la posicion
 		System.out.println(posicion);
 		System.out.println("Hola");
+		System.out.println("Ultima parte del ejer (parte9)");
 	} // Cierre main
 } // Cierre clase
